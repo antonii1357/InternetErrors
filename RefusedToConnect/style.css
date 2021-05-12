@@ -1,0 +1,173 @@
+.icon-generic {
+    content: -webkit-image-set( url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABIAQMAAABvIyEEAAAABlBMVEUAAABTU1OoaSf/AAAAAXRSTlMAQObYZgAAAENJREFUeF7tzbEJACEQRNGBLeAasBCza2lLEGx0CxFGG9hBMDDxRy/72O9FMnIFapGylsu1fgoBdkXfUHLrQgdfrlJN1BdYBjQQm3UAAAAASUVORK5CYII=) 1x, url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQAQMAAADdiHD7AAAABlBMVEUAAABTU1OoaSf/AAAAAXRSTlMAQObYZgAAAFJJREFUeF7t0cENgDAMQ9FwYgxG6WjpaIzCCAxQxVggFuDiCvlLOeRdHR9yzjncHVoq3npu+wQUrUuJHylSTmBaespJyJQoObUeyxDQb3bEm5Au81c0pSCD8HYAAAAASUVORK5CYII=) 2x);
+}
+.icon {
+    display: inline-block;
+}
+.icon {
+    height: 72px;
+    margin: 0 0 40px;
+    width: 72px;
+}
+.icon {
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.icon {
+    filter: invert(1);
+}
+/*
+body {
+    background-color: #fff;
+    background: var(--background-color);
+    color: var(--text-color);
+    word-wrap: break-word;
+} */
+body {
+    background-color: #202124;
+}
+
+html {
+    -webkit-text-size-adjust: 100%;
+    font-size: 125%;
+}
+div {
+    display: block;
+}
+.interstitial-wrapper {
+    color: #9aa0a6;
+    box-sizing: border-box;
+    font-size: 1em;
+    line-height: 1.6em;
+    margin: 14vh auto 0;
+    max-width: 600px;
+    width: 100%;
+}
+html {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+.interstitial-wrapper {
+    font-size: 80%;
+}
+.interstitial-wrapper h1 {
+    font-size: 152%;
+}
+.error-code {
+    font-size: .8em;
+}
+h1 span {
+    font-weight: 500;
+}
+.boton {
+    text-decoration: none;
+    color: #8ab4f8;;
+}
+.suggested-left > #control-buttons, .suggested-right > #details-button {
+    float: left;
+}
+div {
+    display: block;
+}/*
+button {
+    border: 0;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: rgba(32, 33, 36, 1);
+    cursor: pointer;
+    float: right;
+    font-size: .875em;
+    margin: 0;
+    padding: 8px 16px;
+    transition: box-shadow 150mx cubic-bezier(0.4, 0, 0.2, 1);
+    user-select: none;
+}
+/*
+button {
+    appearance: auto;
+    /* -webkit-writing-mode: horizontal-tb !important; *
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    background-color: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
+    box-sizing: border-box;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}*/
+
+
+#main-message {
+    display: inline;
+}
+.navwrapper .secondary-button {
+    background-color: rgba(138, 180, 248, 1);
+    border: 0;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: rgba(32, 33, 36, 1);
+    cursor: pointer;
+    float: none;
+    font-size: 0.875em;
+    margin: 0;
+    padding: 8px 16px;
+    transition: box-shadow 150ms cubic-bezier(0.4, 0, 0.2, 1);
+    user-select: none;
+/*     
+    background: rgba(32, 33, 36, 1);
+    border: 1px solid rgba(95, 99, 104, 1);
+    color: rgba(138, 180, 248, 1);
+    float: none;
+    margin: 0;
+    padding: 8px 16px; */
+}
+button {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+button {
+    background: rgba(32, 33, 36, 1);
+    border: 1px solid rgba(95, 99, 104, 1);
+    color: rgba(138, 180, 248, 1);
+    float: right;
+    margin: 0;
+    margin-inline-end: 16px;
+    padding: 8px 16px;
+    border-radius: 4px;
+
+    /* background-color: rgba(138, 180, 248, 1);
+    border: 0;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: rgba(32, 33, 36, 1);
+    cursor: pointer;
+    float: right;
+    font-size: 0.875em;
+    margin: 0;
+    padding: 8px 16px;
+    transition: box-shadow 150ms cubic-bezier(0.4, 0, 0.2, 1);
+    user-select: none; */
+}
+.navwrapper {
+    padding-bottom: 16px;
+}
+.navwrapper {
+    margin-top: 51px;
+}
+
+.navwrapper::after {
+    clear: both;
+    content: '';
+    display: table;
+    width: 100%;
+}
