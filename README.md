@@ -1,3 +1,3 @@
-# NoInternet
+# Internet Errors
 useful for online classes
-Every folder is a different internet error, you can download the HTML and CSS and edit the link.
+Every folder is a different internet error, you can download the HTML and CSS and edit the link of each file.
